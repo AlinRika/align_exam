@@ -9,6 +9,7 @@ It uses:
 * [FastAPI](https://fastapi.tiangolo.com/) for the backend
 * [SQLAlchemy](https://www.sqlalchemy.org/) for the database
 
+Please, create directory ./app/app_logs/ for logging works
 
 ## Installing dependencies
 
