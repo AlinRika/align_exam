@@ -1,4 +1,4 @@
-# Align exam
+# FastApi training
 ### Alina Kuznetsova
 ### mail: kuznetsovalina@list.ru
 
